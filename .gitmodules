@@ -1,0 +1,6 @@
+[submodule "MISA.QLSX.FE"]
+	path = MISA.QLSX.FE
+	url = https://github.com/Hieutinhtee/MISA.QLSX.FE
+[submodule "MISA.QLSX.BE"]
+	path = MISA.QLSX.BE
+	url = https://github.com/Hieutinhtee/MISA.QLSX.BE
